@@ -21,12 +21,19 @@ Jafarzadeh, M. and Tadesse, Y., 2020. End-to-End Learning of Speech 2D Feature-T
 BibTeX
 
 @inbook{jafarzadeh_End_to_End_2020,
+
 title={End-to-End Learning of Speech 2D Feature-Trajectory for Prosthetic Hands},
+
 booktitle={2020 Second International Conference on Transdisciplinary AI (TransAI)},
+
 publisher={IEEE},
+
 author={Jafarzadeh, Mohsen and Tadesse, Yonas},
+
 ear={2020},
+
 pages={25-33}
+
 }
 
 
