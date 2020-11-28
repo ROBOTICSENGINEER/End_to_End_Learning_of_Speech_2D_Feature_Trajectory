@@ -60,6 +60,7 @@ Custom speech commands should be placed in a directory called `custom_speech_com
 # License 
 
 Copyright (c) 2020, Mohsen Jafarzadeh
+
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
